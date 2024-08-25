@@ -7,11 +7,13 @@ Mehulsingh Charak (SE_B_9)
 Sakshi Ganesh Danej (SE_B_11)
 Pruthvij Prakash Desai (SE_B_15)
 Chaitali Arun Kapse (SE_B_25)
+
 Features
 Select difficulty level: Easy, Medium, or Hard.
 Guess the country name with a maximum of 5 wrong tries.
 Interactive graphical representation of the hangman using the graphics.h library.
 Helpful hints provided based on the selected word.
+
 How to Play
 Start the Game: Upon launching the game, you'll be welcomed and prompted to select a difficulty level (Easy, Medium, or Hard).
 Guess the Word: You will then try to guess the country name by entering one letter at a time.
